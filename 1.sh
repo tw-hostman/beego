@@ -1,5 +1,5 @@
 #!/bin/bash
-go mod init github.com/tw-hostman/samples.git
+go mod init github.com/tw-hostman/beego.git
 
 go get github.com/beego/beego/v2/client/cache
 
